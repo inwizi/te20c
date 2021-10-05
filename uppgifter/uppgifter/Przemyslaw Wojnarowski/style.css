@@ -1,0 +1,10 @@
+body{
+background-color: black;
+
+}
+
+.gallery {
+    display: flex;
+    justify-content: end;
+    flex-wrap: wrap;
+}
